@@ -48,6 +48,6 @@ Data pre-processing 과정은 다음과 같다.
 
 **[참고] Confusion Matrix**
 <p align="center">
-  <img src="https://github.com/SinChulLee/YoloV8-Pose-Keypoint-Classification/assets/145883892/e34f1f95-ed21-42fb-8214-36db0c415c4a" width="500" height="700">
+  <img src="https://github.com/SinChulLee/YoloV8-Pose-Keypoint-Classification/assets/145883892/e34f1f95-ed21-42fb-8214-36db0c415c4a" width="300" height="500">
 </p>
 
