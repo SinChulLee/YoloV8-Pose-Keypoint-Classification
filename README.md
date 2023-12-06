@@ -1,4 +1,4 @@
-# YOLOv8-Pose-Keypoint-Classification
+# YOLOv8-YogaPose-Keypoint-Classification
 
 ## 🏆 Project Introduction
  1. 주제: YoloV8-pose를 이용한 요가 자세 피드백
