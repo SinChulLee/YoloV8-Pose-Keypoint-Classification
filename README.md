@@ -2,9 +2,11 @@
 
 ## 🏆 Project Introduction
  1. 주제: YoloV8-pose를 이용한 요가 자세 피드백
- 2. 팀원: 김기동, 이신철, 조성준, 이요
+ 2. 팀원: 김기동, 이신철, 조성준, 이요담
  3. 데이터: kaggle opendataset
-
+ 4. 사용언어: Python
+ 5. 개발환경: Jupyter Notebook, Colab
+ 6. 라이브러리: ultralytics, sklearn, pandas, numpy, matplotlib, seaborn, Pytorch
 
     
 
@@ -23,9 +25,6 @@
 
 Data pre-processing 과정은 다음과 같다.
 
-<p align="center">
-  <img src="https://github.com/juooo1117/cyber_security_project/assets/95035134/f9191047-e711-465b-873e-8ac5d7bdedb9">
-</p>
 
 ###  1. Pydantic
    - 데이터 유효성 검사 및 구조화를 위해 Pydantic을 사용한다.
@@ -44,7 +43,10 @@ Data pre-processing 과정은 다음과 같다.
 
 ### Multiple Linear Clasification 
    - 필요한 keypoint들의 index값(머리부분 빼고)들을 가지고 다중분류 적용.
-![image](https://github.com/SinChulLee/YoloV8-Pose-Keypoint-Classification/assets/145883892/1b38e47c-2bbb-4a26-9059-e51a18a9ced8)
+
+<p align="center">
+   ![image](https://github.com/SinChulLee/YoloV8-Pose-Keypoint-Classification/assets/145883892/1b38e47c-2bbb-4a26-9059-e51a18a9ced8)
+</p>
 
 
 **[참고] Confusion Matrix**
