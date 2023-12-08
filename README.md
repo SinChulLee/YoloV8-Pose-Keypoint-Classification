@@ -44,7 +44,7 @@ Data pre-processing 과정은 다음과 같다.
 ### Multiple Linear Clasification 
    - 필요한 keypoint들의 index값(머리부분 빼고)들을 가지고 다중분류 적용.
 
-도**
+**<참고> Confusion Maxtrix -> 다중분류 정확도**
 <p align="center">
   <img src="https://github.com/SinChulLee/YoloV8-Pose-Keypoint-Classification/assets/145883892/e34f1f95-ed21-42fb-8214-36db0c415c4a" width="637" height="527">
 </p>
