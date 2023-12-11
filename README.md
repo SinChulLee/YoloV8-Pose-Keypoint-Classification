@@ -46,7 +46,7 @@ Data pre-processing 과정은 다음과 같다.
 ## 🏆 Modeling
 
 ### Multiple Linear Clasification 
-   - 필요한 keypoint들의 index값(머리부분 빼고)들을 가지고 다중분류 적용.
+   - 필요한 keypoint들의 index값(머리부분 빼고)들을 가지고 다중분류 적용했음
 
 **<참고> Confusion Maxtrix -> 다중분류 정확도**
 <p align="center">
